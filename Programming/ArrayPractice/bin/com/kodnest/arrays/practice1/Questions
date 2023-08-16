@@ -1,0 +1,57 @@
+Question 1: Counting Grades
+The teacher wants to analyze the grades of a class. Write a Java program that takes an array of student
+grades (ranging from 0 to 100) and counts how many students scored above 75.
+Hint :Use a loop to iterate through the array. For each grade, check if it's above 75 and increment a
+counter accordingly.
+
+Question 2: Temperature Records
+A weather station records the daily temperatures for a week. Write a Java program that takes an array
+of temperatures and calculates the average temperature.
+Hint :Sum up all temperatures using a loop, then divide the sum by the number of temperatures to find
+the average.
+
+Question3: Finding the Smallest Number
+Alice is playing a game where she's given a list of numbers and she needs to find the smallest number.
+Write a Java program to help Alice find the smallest number in an array.
+Hint: Initialize a variable to store the smallest number, then iterate through the array and update the
+variable if a smaller number is found.
+
+Question 4: Identifying Even Numbers
+Bob has a list of numbers, and he wants to know how many of them are even. Write a Java program to
+count the number of even numbers in an array.
+Hint: Loop through the array and for each number, check if it's even using the modulo operator (%).
+
+Question 5: Sum of Positive Numbers
+Emma is working on a personal finance app. She wants to calculate the total income from positive
+transactions. Write a Java program that takes an array of transaction amounts and calculates the sum of
+positive amounts.
+Hint: Loop through the array, and if a transaction amount is positive, add it to a sum variable
+
+Question 6: Counting Odd Numbers
+Ethan is curious about odd numbers. He wants to count the number of odd numbers in a list. Write a
+Java program to help Ethan count the odd numbers in an array.
+Hint:Loop through the array and for each number, check if it's odd using the modulo operator (%)
+
+Question 7: Multiplying Elements
+Grace is exploring multiplication. She wants to find the product of all elements in an array. Write a Java
+program to help Grace calculate the product of elements in an array.
+Hint:Initialize a variable to store the product. Loop through the array and multiply each element with
+the product.
+
+Question 8: Finding Prime Numbers
+Hannah is fascinated by prime numbers. She wants to identify the prime numbers in a list. Write a Java
+program to help Hannah find the prime numbers in an array.
+Hint:Loop through the array and for each number, check if it's prime. A prime number has no divisors
+other than 1 and itself.
+
+Question 9: Calculating Factorial
+Ian is learning about factorials. He wants to calculate the factorial of a given number. Write a Java
+program to help Ian calculate the factorial of a number.
+Hint:Initialize a variable to store the factorial. Loop from 1 to the given number and multiply each
+iteration's value with the factorial.
+
+Question 10: Checking for Duplicates
+Olivia wants to ensure there are no duplicate elements in a list. Write a Java program to help Olivia
+check if an array contains any duplicate elements.
+Hint: Use nested loops to compare each element with every other element. If two elements are the
+same, indicate that duplicates are present.
