@@ -1,0 +1,33 @@
+Question 1: Factorial Sum
+Scenario: Mia wants to find the sum of factorials of numbers from 1 to a given positive integer. She
+needs a program that calculates and displays this sum.
+Hint: Mia should create a variable to keep track of the sum. Then, she should use a `for` loop to iterate
+through the numbers from 1 to the given positive integer. Within the loop, Mia can calculate the
+factorial of the current number using another `for` loop or a recursive function. After obtaining the
+factorial, she should add it to the sum. Finally, Mia can display the calculated sum.
+explanation->1!+2!+3!=>1+2+6=>9
+
+Question 2: Divisor Counter
+Scenario: Liam is interested in counting the number of divisors for a given positive integer. He needs a
+program that calculates and displays the count of divisors for the input number.
+Hint: Liam should initialize a counter variable to keep track of the number of divisors. Then, he can use a
+`for` loop to iterate through the numbers from 1 to the input positive integer. Inside the loop, Liam
+should check if the current number divides the input number evenly (i.e., there's no remainder). If it
+does, Liam should increment the counter. Finally, he can display the count of divisors.
+
+Question 3: Prime Range Finder
+Scenario: Emily wants to find prime numbers within a specified range. She needs a program that takes
+two positive integers as input and displays all prime numbers between those two numbers.
+Hint: Emily can create a helper function to check if a given number is prime. Then, she should use a `for`
+loop to iterate through the numbers within the specified range. Inside the loop, Emily can call the helper
+function to determine if the current number is prime. If it is, she can display the prime number.
+
+Question 4: Perfect Number Checker
+Scenario: Oliver is fascinated by perfect numbers, which are positive integers that are equal to the sum
+of their proper divisors (excluding the number itself). He needs a program that checks if a given number
+is a perfect number.
+Hint: Oliver can create a helper function to find the sum of divisors for a given number. Then, he should
+use a `for` loop to iterate through the numbers from 1 to half of the input number (since divisors won't
+exceed half of the number). Inside the loop, Oliver can check if the current number is a divisor and add it
+to the sum. After the loop, he should compare the sum with the input number to determine if it's a
+perfect number.

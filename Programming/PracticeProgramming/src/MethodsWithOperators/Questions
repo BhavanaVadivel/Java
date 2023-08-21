@@ -1,0 +1,33 @@
+Question 1: Tax Calculator
+**Scenario**: Sophia is building a tax calculator for a retail store. She needs a program that calculates
+the total cost including tax for a given purchase amount and tax rate.
+**Hint**: Sophia can create a method named `calculateTotalWithTax` that takes two doubles (purchase
+amount and tax rate) as inputs and returns the calculated total cost. Inside the method, she should
+calculate the tax amount using the formula `purchase amount * tax rate`, then add it to the purchase
+amount.
+Sample Output:
+Enter the purchase amount: 100
+Enter the tax rate (in decimal form): 0.08
+Total cost including tax: 108.0
+
+Question 2: Logical Operator Validator
+**Scenario**: Ethan is developing a user registration system. He needs a program that validates user
+input based on multiple conditions using logical operators.
+**Hint**: Ethan can create a method named `isValidInput` that takes two booleans (one indicating if the
+input is valid and the other indicating if the input meets a certain condition) as inputs and returns a
+boolean value. Inside the method, he can use logical operators (AND, OR) to combine the conditions and
+determine if the input is valid.
+Sample Output:
+Is input valid (true/false): true
+Does input meet a certain condition (true/false): true
+Input is valid.
+
+Question 3: Bitwise Bit Counter
+**Scenario**: Mia is exploring bitwise operations and wants to count the number of set (1) bits in a
+given integer. She needs a program that takes an integer as input and displays the count of set bits.
+**Hint**: Mia can create a method named `countSetBits` that takes an integer as input and returns the
+count of set bits. Inside the method, she can use bitwise AND operation with a mask to check the value
+of each bit.
+Sample Output:
+Enter an integer: 22
+Number of set bits: 3
