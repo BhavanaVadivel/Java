@@ -1,0 +1,31 @@
+1.Length Checker:
+Write a java program to take 2 strings as user input and checks whether
+they are of same length or not. If the strings are of same length then 
+print “Both strings are of same length” otherwise prints “Both strings 
+are of different length”.
+
+2.Return Concatination:
+Write a java program to take 2 strings as user input and returns a 
+concatenated string if the string values are equal.
+
+3.Unicode Printer:
+Write a java program to take a string as user input and print the unicode
+value of every character present in the string.
+
+4.Upper-Lower-Counter:
+Write a java program to take a string as user input and returns the count 
+of uppercase letters and lowercase letters.
+
+5.Upper to lower converter:
+Write a java program to convert all the uppercase letters to lowercase 
+letters in the string
+
+6.Lower-to-Upper Converter:
+Write a java program to convert all the lowercase letters to uppercase 
+letters in the string
+
+7.CaseConverter
+Write a java program to convert all the uppercase letters to lowercase 
+and all the lowercase letters to uppercase
+
+8.Print the frequency of each character in a String
