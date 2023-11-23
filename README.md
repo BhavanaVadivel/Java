@@ -8,6 +8,6 @@ This directory is a collection of small code snippets and exercises that I use f
 ### 2.Small Projects Showcase
 In this directory, you'll find a selection of simple games that I've created. These projects are designed to demonstrate my programming skills and creativity.
 
-#### Airline Reservation Management Project (Work in Progress)
-This repository contains an ongoing project aimed at building an airline reservation management system. While it currently includes functionalities for user authentication (Registration & Login), the project is still in progress.
+#### 1.Airline Reservation Management Project (Work in Progress)
+This directory contains an ongoing project aimed at building an airline reservation management system. While it currently includes functionalities for user authentication (Registration & Login), the project is still in progress.
 This project is part of my learning process and is a work in progress.
