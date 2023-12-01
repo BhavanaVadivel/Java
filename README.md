@@ -6,7 +6,7 @@ Welcome to my code repository! This repository contains various collection of co
 This directory is a collection of small code snippets and exercises that I use for practicing and enhancing my programming skills. It covers a variety of programming concepts and includes coding challenges to develop problem-solving abilities. Explore this section to see examples of code that cover a range of programming fundamentals.
 
 ### 2.Advanced Programming
-This directory houses advanced programming topics like JDBC, Multithreading, Hibernate, and various frameworks.
+This directory contains advanced programming topics like JDBC, Multithreading, Hibernate, and various frameworks.
 
 ### 3.Small Projects Showcase
 In this directory, you'll find a selection of simple games that I've created. These projects are designed to demonstrate my programming skills and creativity.
