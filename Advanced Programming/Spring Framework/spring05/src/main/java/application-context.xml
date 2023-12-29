@@ -1,0 +1,22 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.springframework.org/schema/beans
+http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+
+	<bean id="mobile" class="com.kn.entities.Mobile">
+		<property name="brand" value="OnePlus"></property>
+		<property name="RAM" value="8GB"></property>
+		<property name="cost" value="87645"></property>
+	</bean>
+	<!--Autowiring byName-->
+	<!--<bean id="person" class="com.kn.entities.Person" autowire="byName"></bean>-->
+	<!--Autowiring byType-->
+	<bean id="person" class="com.kn.entities.Person" autowire="byType"></bean>
+	<!--Autowiring byConstructor-->
+	
+
+	<!-- @autowired
+	 <bean id="person" class="com.kn.entities.Person" autowire="byConstructor"></bean>
+	-->
+</beans>
